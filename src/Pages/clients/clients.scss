@@ -1,0 +1,22 @@
+.container-client{
+    border: 1px solid white;
+    padding-top:20px ;
+    // background-color: antiquewhite;
+    .container-heading{
+        width: 200px;
+        margin-top: 60px;
+        margin: auto;
+        color: rgb(81, 75, 75);
+        
+        h1{
+            font-weight: 600;
+            
+        }
+        p{
+             width: 300px;
+             margin: 0px 0px 20px -30px;
+             padding-top: -5px;
+             font-size: 13px;
+        }
+    }
+}
